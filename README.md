@@ -22,4 +22,4 @@ This is a simple banking system designed to manage accounts at a mini bank with 
 ### How to Install:
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/joelwmulongo/minibank-system.git
+   git clone https://github.com/joelwmulongo/MBS.git
