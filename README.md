@@ -1,5 +1,5 @@
 # MiniBank System
-
+<img src="./minibus.jpg">
 ## Overview
 
 This is a simple banking system designed to manage accounts at a mini bank with a single cash machine. The bank holds 20 accounts in total:
